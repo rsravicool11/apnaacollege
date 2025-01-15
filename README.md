@@ -1,4 +1,4 @@
 # apnaacollege
 This is my git repository
 <br>
-Author - Ravi Singh
+Author - Ravi Singh (Apna collage)
